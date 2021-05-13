@@ -11,3 +11,5 @@ SERVER.CFG
 write this in server.cfg
 
 start r4lle_krycka
+
+video https://streamable.com/cpq0d8
